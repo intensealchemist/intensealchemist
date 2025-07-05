@@ -9,4 +9,3 @@ intensealchemist/intensealchemist is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=100&lines=👋+Hi%2C+I’m+%40intensealchemist;👀+Interested+in+Web+Development+%26+AI;🌱+Learning+React+Patterns%2C+Web3+%26+GraphQL;💞️+Open+to+Full-Stack+Collaborations;📫+Reach+me+at+atulrsharma70%40gmail.com" alt="Typing SVG" />
