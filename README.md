@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning advanced React patterns, web3, and backend optimization with Node.js and GraphQL.
 - 💞️ I’m looking to collaborate on full-stack projects, open-source contributions, and innovative applications that push the boundariees of web development.
 - 📫 How to reach me: You can reach me on Github, or via email at atulrsharma70@gmail.com
-- ⚡ Fun fact: I love coding at night with some lo-fi music and a cup of strong coffee-it's when I feel the most productive and creative!
 
 <!---
 intensealchemist/intensealchemist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
