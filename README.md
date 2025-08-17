@@ -50,7 +50,7 @@
 ## 📌 Featured Projects  
 
 - 🔗 [**CodeAssist**](https://github.com/intensealchemist/CodeAssist-Agent) – AI-powered coding assistant
-- 🔗 [**DypcmrHomepage**](https://github.com/intensealchemist/VirtualClassroomPlatform) – modern virtual learning management system built with Spring Boot
+- 🔗 [**VirtualClassroomPlatform**](https://github.com/intensealchemist/VirtualClassroomPlatform) – modern virtual learning management system built with Spring Boot
 - 🔗 [**DypcmrHomepage**](https://github.com/intensealchemist/DypcmrHomepage) – College website project  
 
 ---
