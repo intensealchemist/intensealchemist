@@ -16,8 +16,8 @@ jobs:
         run: pip install requests
       - name: Run the script
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_1 }}
-        run: python generate_top_languages.py > top_langs.md
+          TOP_LANGS_TOKEN: ${{ secrets.TOP_LANGS_TOKEN }}
+        run: python generate_top_languages.py
       - name: Update README.md
         run: |
           awk '/<!-- START:generated-langs -->/{print; system("cat top_langs.md"); f=1; next} /<!-- END:generated-langs -->/{f=0} !f' README.md > README.new.md
