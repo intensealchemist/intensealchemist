@@ -1,7 +1,7 @@
 # 🚀 Atul Sharma | Aspiring Software Engineer & QA Enthusiast | MCA Student  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=intensealchemist&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=intensealchemist&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intensealchemist&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="160"/>
 </p>
 
