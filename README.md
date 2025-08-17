@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=intensealchemist&show_icons=true&theme=radical&count_private=true&cache_seconds=30&rand=1" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intensealchemist&layout=compact&theme=radical&count_private=true&cache_seconds=30&rand=2" alt="Top Languages" />
+<!-- START:generated-langs -->
+<!-- END:generated-langs -->
+
 
 </p>
 
