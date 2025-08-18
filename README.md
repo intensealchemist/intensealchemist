@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=intensealchemist&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intensealchemist&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="160"/>
+  <img src="https://camo.githubusercontent.com/2051f2c449d3bfa9ad905403c82dea5181d729c2e03d700cc2f689a45a481aa0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d41434547583235267468656d653d7261646963616c26686964655f626f726465723d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ACEGX25&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" style="max-width: 100%;">
 
 <!-- START:generated-langs -->
 <!-- END:generated-langs -->
