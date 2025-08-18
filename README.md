@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 Currently pursuing **MBA & MCA at Dr. D. Y. Patil College**  
+- 🎓 Currently pursuing **MCA at Dr. D. Y. Patil College**  
 - 💼 Exploring **Software Testing | QA | Full-Stack Development**  
 - 🌱 Learning **CI/CD Pipelines, Automation Testing, and Cloud Deployments**  
 - ⚡ Fun fact: I love solving **LeetCode & chess puzzles** 🧩♟️  
