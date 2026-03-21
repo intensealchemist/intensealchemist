@@ -1,77 +1,92 @@
-# Atul Sharma 🚀
-Full-Stack & Android Developer | AI/ML Enthusiast | QA Enthusiast | MCA Student  
-[![Profile Banner](https://github.com/intensealchemist.png)](https://github.com/intensealchemist)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Atul%20Sharma&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=QA%20%C2%B7%20Full%20Stack%20%C2%B7%20AI%2FML&descAlignY=58&descSize=15"/>
+</div>
 
-Hi — I'm Atul. I build full-stack web apps, native Android apps, and AI/ML-powered tools. I design reliable test automation and deploy scalable systems. I enjoy solving algorithmic puzzles and improving product quality through testing and CI/CD.
-
----
-
-### Highlights
-- 🔭 Currently building full-stack, Android and AI/ML projects (React / Next.js + Spring Boot / Node; Kotlin/Android)
-- 🧪 Passionate about test automation, CI/CD pipelines, and cloud deployments
-- 🤖 Interested in applied ML: model prototyping, deployment, and inferencing in apps
-- ♟️ Fun fact: I love LeetCode and chess puzzles
-- 🎓 MCA student at DYPCMR
-
----
-
-### Quick stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=intensealchemist&layout=compact&theme=radical)](https://github.com/intensealchemist)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=intensealchemist&show_icons=true&theme=radical)](https://github.com/intensealchemist)  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=intensealchemist&theme=radical&row=1)](https://github.com/intensealchemist)
-
----
-
-## Featured Projects
-- 🔗 [DiscordChessBot](https://github.com/intensealchemist/DiscordChessBot) — Discord chess bot with move validation and game state persistence. (Node.js, Discord.js)
-- 🔗 [CodeAssist-Agent](https://github.com/intensealchemist/CodeAssist-Agent) — AI-assisted coding assistant for faster development workflows.
-- 🔗 [VirtualClassroomPlatform](https://github.com/intensealchemist/VirtualClassroomPlatform) — Learning management platform built with Spring Boot.
-- 🔗 [DypcmrWebsite](https://github.com/intensealchemist/DypcmrWebsite) — College website project (private).
-- 📱 Android & AI/ML projects — add links here (if you want, tell me repos to list with short descriptions).
-
----
-
-## Skills
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-
-### Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-
-### AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-
-### Testing & CI/CD
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
----
-
-## Contributions & Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=intensealchemist&theme=radical&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## Connect with me
-- ✉️ Email: atulrsharma70@gmail.com
-- GitHub: https://github.com/intensealchemist
-- Portfolio / Resume: portfolio-alpha-rust-60.vercel.app
-
----
-
-## How to run my projects (example)
-```bash
-# clone a repo
-git clone https://github.com/intensealchemist/VirtualClassroomPlatform.git
-cd VirtualClassroomPlatform
-# follow the project README to run services and tests
+```ts
+const atul = {
+  focus:    ["QA Engineering", "Full Stack Dev", "Android / Mobile", "AI/ML Tooling"],
+  web:      ["React", "Next.js", "Spring Boot", "Node.js", "Django"],
+  mobile:   ["Android (Kotlin)", "React Native", "Flutter"],
+  testing:  ["Manual Testing", "API Testing", "Regression", "STLC", "Postman"],
+  db:       ["PostgreSQL", "MySQL", "MongoDB"],
+  infra:    ["Docker", "Jenkins", "CI/CD", "Linux"],
+  location: "Pune, India 🇮🇳",
+};
 ```
-✨ _“Code. Test. Break. Fix. Repeat.”_ — Atul
+
+---
+
+### 🚀 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**CodeAssist**](https://github.com/intensealchemist/CodeAssist) | AI coding assistant — tested LLM prompts, API responses, and UI end-to-end | Python · Django · Mistral 7B · React · TS |
+| [**DiscordChessBot**](https://github.com/intensealchemist/DiscordChessBot) | Chess bot with Stockfish AI, PvP, ELO ratings & tournament mode | Python · Discord.py · Stockfish |
+| [**VirtualClassroomPlatform**](https://github.com/intensealchemist/VirtualCLassroomPlatform) | LMS with multi-role flows — regression tested across student/educator/admin | Java · Spring Boot · MySQL |
+| [**BookMind**](https://github.com/intensealchemist/BookMind) | AI-powered book summary and recommendation engine | Python · ML |
+| **DYPCMR Placement App** | React Native app — cross-device QA across Android versions & screen sizes | TypeScript · React Native |
+
+---
+
+### 🛠 Skills
+
+**Testing & QA** &nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-607D8B?style=flat-square)
+![STLC](https://img.shields.io/badge/STLC%20%2F%20Agile-0052CC?style=flat-square)
+
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Mobile** &nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+
+**AI / ML** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Infra** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=intensealchemist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intensealchemist&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=intensealchemist&theme=tokyo-night&hide_border=true&area=true)](https://github.com/intensealchemist)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/atulrsharma70@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atulrsharma70@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-alpha-rust-60.vercel.app)
+
+<sub><i>"Code. Test. Break. Fix. Repeat."</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&animation=twinkling"/>
+</div>
