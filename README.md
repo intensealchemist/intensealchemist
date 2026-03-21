@@ -20,6 +20,7 @@ const atul = {
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**CodeCrew**](https://github.com/intensealchemist/CodeCrew) | Multi-agent AI system that turns a plain English prompt into a complete codebase — with tests, Dockerfile, CI/CD & docs | Python · CrewAI · Ollama · Groq · Anthropic |
 | [**CodeAssist**](https://github.com/intensealchemist/CodeAssist) | AI coding assistant — tested LLM prompts, API responses, and UI end-to-end | Python · Django · Mistral 7B · React · TS |
 | [**DiscordChessBot**](https://github.com/intensealchemist/DiscordChessBot) | Chess bot with Stockfish AI, PvP, ELO ratings & tournament mode | Python · Discord.py · Stockfish |
 | [**VirtualClassroomPlatform**](https://github.com/intensealchemist/VirtualCLassroomPlatform) | LMS with multi-role flows — regression tested across student/educator/admin | Java · Spring Boot · MySQL |
