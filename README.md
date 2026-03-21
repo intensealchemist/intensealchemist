@@ -26,7 +26,7 @@ const atul = {
 | [**DiscordChessBot**](https://github.com/intensealchemist/DiscordChessBot) | Chess bot with Stockfish AI, PvP, ELO ratings & tournament mode | Python · Discord.py · Stockfish |
 | [**VirtualClassroomPlatform**](https://github.com/intensealchemist/VirtualCLassroomPlatform) | LMS with multi-role flows — regression tested across student/educator/admin | Java · Spring Boot · MySQL |
 | [**BookMind**](https://github.com/intensealchemist/BookMind) | AI-powered book summary and recommendation engine | Python · ML |
-| **DYPCMR Placement App** | React Native app — cross-device QA across Android versions & screen sizes | TypeScript · React Native |
+| **DYPCMR Placement App** | React Native app — cross-device QA across Android versions & screen sizes | TypeScript · React Native · Django Rest Framework|
 
 ---
 
