@@ -26,7 +26,8 @@ const atul = {
 | [**DiscordChessBot**](https://github.com/intensealchemist/DiscordChessBot) | Chess bot with Stockfish AI, PvP, ELO ratings & tournament mode | Python · Discord.py · Stockfish |
 | [**VirtualClassroomPlatform**](https://github.com/intensealchemist/VirtualCLassroomPlatform) | LMS with multi-role flows — regression tested across student/educator/admin | Java · Spring Boot · MySQL |
 | [**BookMind**](https://github.com/intensealchemist/BookMind) | AI-powered book summary and recommendation engine | Python · ML |
-| **DYPCMR Placement App** | Mobile app + admin web portal — cross-device QA across Android versions, screen sizes & browsers | TypeScript · React Native · Django Rest Framework · Next.js |
+| **DYPCMR College Website** *(private — proprietary)* | Institutional platform with role-based portals for admin, faculty & students — Docker, CI/CD, JWT auth, WCAG compliant | Next.js · Node.js · MySQL · Docker |
+| **DYPCMR Placement Assistance** *(private — proprietary)* | Production platform on Google Play + Vercel — job board, FCM push notifications, WhatsApp forwarding, resume builder, 3-tier RBAC, 25+ REST endpoints | Django · React Native · Next.js · PostgreSQL · Redis · Docker 
 
 ---
 
