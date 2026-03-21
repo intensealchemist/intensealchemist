@@ -1,9 +1,3 @@
-<!--
-  README: Modern profile redesign for Atul Sharma (intensealchemist)
-  - Tagline updated to include Full-Stack, Android, and AI/ML work
-  - Modern sections: Hero, Badges, Projects (cards), Skills Grid, Stats, Contact
--->
-
 # Atul Sharma 🚀
 Full-Stack & Android Developer | AI/ML Enthusiast | QA Enthusiast | MCA Student  
 [![Profile Banner](https://github.com/intensealchemist.png)](https://github.com/intensealchemist)
@@ -71,10 +65,7 @@ Want a demo or README highlight for any project? Tell me which one and I’ll ad
 ## Connect with me
 - ✉️ Email: atulrsharma70@gmail.com
 - GitHub: https://github.com/intensealchemist
-- LinkedIn: [Your LinkedIn]<!-- add URL -->
-- Portfolio / Resume: [Your Portfolio / Resume]<!-- add URL -->
-
-(Provide LinkedIn / portfolio / resume URLs and I’ll add branded badges and direct links.)
+- Portfolio / Resume: portfolio-alpha-rust-60.vercel.app
 
 ---
 
@@ -85,13 +76,4 @@ git clone https://github.com/intensealchemist/VirtualClassroomPlatform.git
 cd VirtualClassroomPlatform
 # follow the project README to run services and tests
 ```
-
----
-
-Thanks for visiting — if you'd like I can:
-- Add project screenshots, live demo badges, and README summaries for each featured repo
-- Add Android app listing + Play Store badges if you provide links
-- Add AI/ML demo links, model cards, or notebooks links
-- Push this README to your repo (I’ll verify repo owner/name before writing)
-
 ✨ _“Code. Test. Break. Fix. Repeat.”_ — Atul
