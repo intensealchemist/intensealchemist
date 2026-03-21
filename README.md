@@ -29,8 +29,6 @@ Hi — I'm Atul. I build full-stack web apps, native Android apps, and AI/ML-pow
 - 🔗 [DypcmrWebsite](https://github.com/intensealchemist/DypcmrWebsite) — College website project (private).
 - 📱 Android & AI/ML projects — add links here (if you want, tell me repos to list with short descriptions).
 
-Want a demo or README highlight for any project? Tell me which one and I’ll add screenshots, badges, and a live demo link.
-
 ---
 
 ## Skills
