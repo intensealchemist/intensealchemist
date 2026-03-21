@@ -96,7 +96,7 @@ const atul = {
 
 [![Email](https://img.shields.io/badge/atulrsharma70@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atulrsharma70@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-alpha-rust-60.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://atul-sharma-portfolio-phi.vercel.app/)
 
 <sub><i>"Code. Test. Break. Fix. Repeat."</i></sub>
 
