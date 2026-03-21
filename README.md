@@ -24,7 +24,7 @@ const atul = {
 | [**Paramvid**](https://github.com/intensealchemist/paramvid) | Local AI assistant with intelligent model routing (NLI-DeBERTa), speculative decoding, flash attention & KV cache quantization — runs on 4GB VRAM | Python · FastAPI · llama.cpp · Next.js |
 | [**CodeAssist**](https://github.com/intensealchemist/CodeAssist) | AI coding assistant — tested LLM prompts, API responses, and UI end-to-end | Python · Django · Mistral 7B · React · TS |
 | [**DiscordChessBot**](https://github.com/intensealchemist/DiscordChessBot) | Chess bot with Stockfish AI, PvP, ELO ratings & tournament mode | Python · Discord.py · Stockfish |
-| [**VirtualClassroomPlatform**](https://github.com/intensealchemist/VirtualCLassroomPlatform) | LMS with multi-role flows — regression tested across student/educator/admin | Java · Spring Boot · MySQL |
+| [**VirtualClassroomPlatform**](https://github.com/intensealchemist/VirtualCLassroomPlatform) | Full LMS with live video (Agora RTC), WebSocket chat, collaborative whiteboard, role-based dashboards & real-time notifications | Java · Spring Boot · MySQL · WebSocket · Docker |
 | [**BookMind**](https://github.com/intensealchemist/BookMind) | AI-powered book summary and recommendation engine | Python · ML |
 | **DYPCMR College Website** *(private — proprietary)* | Institutional platform with role-based portals for admin, faculty & students — Docker, CI/CD, JWT auth, WCAG compliant | Next.js · Node.js · MySQL · Docker |
 | **DYPCMR Placement Assistance** *(private — proprietary)* | Production platform on Google Play + Vercel — job board, FCM push notifications, WhatsApp forwarding, resume builder, 3-tier RBAC, 25+ REST endpoints | Django · React Native · Next.js · PostgreSQL · Redis · Docker |
